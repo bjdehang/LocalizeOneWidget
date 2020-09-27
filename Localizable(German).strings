@@ -1,0 +1,279 @@
+/*
+  Localizable.strings
+  OneWidget
+
+  Created by xDEHANG on 2020/8/14.
+  
+*/
+"Home" = "";
+"Preview" = "";
+"Setting" = "";
+"Search Widgets" = "=";
+"Widgets in One App" = "";
+"Widget" = "";
+"Theme" = "";
+"Submit" = "";
+"Back" = "";
+"Small" = "";
+"Medium" = "";
+"Large" = "";
+"Data" = "";
+"There is no data at present." = "";
+"There is no incomplete reminders at present." = "";
+
+
+"Random Color" = "";
+"Red" = "";
+"White" = "";
+"Blue" = "";
+"Coral" = "";
+"Orange" = "";
+"Yellow" = "";
+"Green" = "";
+"Turquoise" = "";
+"LightBlue" = "";
+"SkyBlue" = "";
+"RoyalBlue" = "";
+"MediumPurple" = "";
+"Purple" = "";
+"Violet" = "";
+"Pink" = "";
+"Silver" = "";
+"DarkSeaGreen" = "";
+"RosyBrown" = "";
+"Gray" = "";
+"Black" = "";
+
+
+"DefaultView" = "";
+"InitialView" = "";
+"MyMotto" = "";
+"DailyMotto" = "";
+"DigitalClock" = "";
+"RectangleClock" = "";
+"SquareDate" = "";
+"DesktopCalendar" = "";
+"LunarCalendar" = "";
+"TodayDate" = "";
+"TodayLunar" = "";
+"StorageSpace" = "";
+"DailyWater" = "";
+"DailyWeight" = "";
+"DailyStand" = "";
+"DailyHabit" = "";
+"LifeCounter" = "";
+"AgeCalculator" = "";
+"DateCounter" = "";
+"TodoList" = "";
+"TallyBook" = "";
+"Agenda" = "";
+"Reminder" = "";
+"Reminders" = "";
+"FridayCalendar" = "";
+"PhotoWidget" = "";
+
+"Choose Type" = "";
+"Choose Data" = "";
+"Choose Them" = "";
+
+
+"Tips" = "";
+"iCloud" = "";
+"AppIcon" = "";
+"OneWidgetDefault" = "";
+"OneWidgetBlue" = "";
+"OneWidgetDark" = "";
+"Developer" = "";
+"Weibo" = "";
+"Twitter" = "";
+"Bilibili" = "";
+"Comment" = "";
+"Feedback" = "";
+"Share" = "";
+"Email" = "";
+"Submit your suggestions in the following ways." = "";
+"Please tell me what widgets or themes you like." = "";
+"Can't Send Emails" = "";
+"Can't send emails from this device.\nEmail address has been added to pasteboard." = "";
+
+
+"1. To Edit Mode" = "";
+"2. To Edit Widget" = "";
+"3. To Select Kit" = "";
+"3. To Select Type" = "";
+"4. To Select Theme" = "";
+
+
+
+"Add Water" = "";
+"Add Weight" = "";
+"Add Stand" = "";
+"Add Completed Habit" = "";
+"Add Life Counter" = "";
+"Add Age Calculator" = "";
+"Add Date Counter" = "";
+"Add Todo" = "";
+"Add Tally" = "";
+"Edit Water" = "";
+"Edit Weight" = "";
+"Edit Stand" = "";
+"Edit Completed Habit" = "";
+"Edit Life Counter" = "";
+"Edit Age Calculator" = "";
+"Edit Date Counter" = "";
+"Edit Todo" = "";
+"Edit Tally" = "";
+"Please Input Data" = "";
+"Input Water Quantity" = "";
+"Input Your Weight" = "";
+"Input Standing Time" = "";
+"Input Habit Content" = "";
+"Input Event" = "";
+"Input Todo" = "";
+"Input Detail" = "";
+"Input Amount" = "";
+"Select Date" = "选";
+"Select Birthday" = "";
+"Input Name/Relationship" = "";
+"Gender" = "";
+"Cancel" = "";
+"Save" = "";
+"Delete" = "";
+"Update" = "";
+"Got it!" = "";
+"Date:" = "";
+"Input Your Motto" = "";
+"Please Add Your Motto" = "";
+"Please Add LifeCounter" = "";
+"Please Add AgeCalculator" = "";
+"Please Add DateCounter" = "";
+"Please Add Todo" = "";
+"Please Add Agenda" = "";
+"Please Add Reminder" = "";
+"Please Add Agenda" = "";
+"Please Enable Permissions" = "";
+"Enable Permissions" = "";
+"Add Photo" = "";
+"Photo Name" = "";
+
+
+"Recently" = "";
+"None Recently" = "";
+"1500~2000ML/Day" = "";
+"60MIN/Day" = "";
+"10 Times/Day" = "";
+"One Time/Day" = "";
+"Age" = "";
+"Female" = "";
+"Male" = "";
+"Ago" = "";
+"Today" = "";
+"Later" = "";
+"Expenditure" = "";
+"Income" = "";
+"EXP." = "";
+"INC." = "";
+"Total" = "";
+"Hot" = "";
+"New" = "";
+"Clock" = "";
+"Date" = "";
+"Static" = "";
+"System" = "";
+"Todo" = "";
+"ML" = "";
+"KG" = "";
+"MIN" = "";
+"Time" = "";
+
+
+"OneWidget is an application that contains a variety of homescreen widgets." = "";
+"You can get multiple widgets for one application by adding multiple widgets and setting them to different types." = "";
+"In the meantime, I have prepared a tutorial for you, please click the link below to learn more." = "";
+
+//
+"Please Open App To Update Widgets" = "";
+"Last Update" = "";
+"Update Widgets" = "";
+
+//
+"January" = "";
+"February" = "";
+"March" = "";
+"April" = "";
+"May" = "";
+"June" = "";
+"July" = "";
+"August" = "";
+"September" = "";
+"October" = "";
+"November" = "";
+"December" = "";
+"SUN" = "";
+"MON" = "";
+"TUE" = "";
+"WED" = "";
+"THU" = "";
+"FRI" = "";
+"SAT" = "";
+"Sunday" = "";
+"Monday" = "";
+"Tuesday" = "";
+"Wednesday" = "";
+"Thursday" = "";
+"Friday" = "";
+"Saturday" = "";
+"Total Storage" = "";
+"Free Storage" = "";
+"All Day" = "";
+"\nto " = "";
+
+"OneWidget Kit" = "";
+"Single" = "";
+"Small Single" = "";
+"Medium Single" = "";
+"Large Single" = "";
+"Large Double" = "";
+"Large Three" = "";
+"Large Four" = "";
+"Medium Double" = "";
+"Show One Widget" = "";
+"Show Double Widgets (Left/Right)" = "";
+"Show Double Widgets (Up/Down)" = "";
+"Show Three Widgets(Custom)" = "";
+"Show Four Widgets(Custom)" = "";
+"Up/LeftDown/RightDown" = "";
+"LeftUp/RightUp/Down" = "";
+
+"Today is Friday?" = "";
+"NO" = "";
+"YES" = "";
+
+"Choose Photo" = "";
+"Save Successfully!" = "";
+"Add To HomeScreen,Choose Your Photo Name" = "";
+"Do't need to choose" = "";
+"NO Data" = "";
+"Edit Photo" = "";
+"It is recommended to upload images less than 1m." = "";
+
+"Your Reminder task data can be shown in the Reminders widget and tool.OneWidget just read data to show." = "";
+"Your Calendar event data can be shown in the Agenda widget and tool.OneWidget just read data to show." = "";
+"Choose Tint Color" = "";
+"Tint Color" = "";
+"Photo" = "";
+"Background Color" = "";
+"Add Background Photo" = "";
+"Background Photo" = "";
+"When Choose Theme, Choose Your Photo Name" = "";
+"More Widgets Are Coming." = "";
+"Nil" = "";
+"You can choose parameter to preview" = "";
+
+//widgets
+"First Type" = "";
+"Second Type" = "";
+"Third Type" = "";
+"Fourth Type" = "";
+"Mode" = "";
+"Second #Index(Data/Style)" = "";

@@ -1,0 +1,271 @@
+/*
+  Localizable.strings
+  OneWidget
+  Created by xDEHANG on 2020/8/14.
+*/
+"Home" = "首頁";
+"Preview" = "預覽";
+"Setting" = "設置";
+"Search Widgets" = "搜索桌面小組件";
+"Widgets in One App" = "桌面小組件工具集";
+"Widget" = "小組件";
+"Theme" = "主題";
+"Submit" = "提交";
+"Back" = "返回";
+"Small" = "小尺寸";
+"Medium" = "中尺寸";
+"Large" = "大尺寸";
+"Data" = "數據";
+"There is no data at present." = "當前沒有數據";
+"There is no incomplete reminders at present." = "當前沒有未完成的提醒事項。";
+
+//主題的名字
+"Random Color" = "隨機顏色";
+"Red" = "紅色";
+"White" = "白色";
+"Blue" = "藍色";
+"Coral" = "珊瑚色";
+"Orange" = "橙色";
+"Yellow" = "黃色";
+"Green" = "綠色";
+"Turquoise" = "綠寶石";
+"LightBlue" = "淺藍色";
+"SkyBlue" = "天藍色";
+"RoyalBlue" = "軍藍色";
+"MediumPurple" = "中紫色";
+"Purple" = "紫色";
+"Violet" = "紫羅蘭";
+"Pink" = "粉紅色";
+"Silver" = "銀白色";
+"DarkSeaGreen" = "深海洋綠";
+"RosyBrown" = "玫瑰棕色";
+"Gray" = "深灰色";
+"Black" = "黑色";
+
+//小組件的名字
+"DefaultView" = "初始頁面";
+"InitialView" = "初始頁面";
+"MyMotto" = "我的寄語";
+"DailyMotto" = "每日壹言";
+"DigitalClock" = "數字時鐘";
+"RectangleClock" = "矩形時鐘";
+"SquareDate" = "方塊日子";
+"DesktopCalendar" = "桌面日歷";
+"LunarCalendar" = "桌面農歷";
+"TodayDate" = "今日日期";
+"TodayLunar" = "今日農歷";
+"StorageSpace" = "存儲空間";
+"DailyWater" = "每日飲水";
+"DailyWeight" = "每日體重";
+"DailyStand" = "每日站立";
+"DailyHabit" = "每日打卡";
+"LifeCounter" = "生命倒計時";
+"AgeCalculator" = "年齡計算器";
+"DateCounter" = "日期計算器";
+"TodoList" = "待辦清單";
+"TallyBook" = "極簡記賬";
+"Agenda" = "日程計劃";
+"Reminder" = "提醒事項";
+"Reminders" = "提醒事項";
+"FridayCalendar" = "周五日歷";
+"PhotoWidget" = "圖片組件";
+
+"Choose Type" = "選擇種類";
+"Choose Data" = "選擇數據";
+"Choose Them" = "選擇主題";
+
+//設置的文字
+"Tips" = "使用教程";
+"iCloud" = "iCloud同步";
+"AppIcon" = "應用圖標";
+"OneWidgetDefault" = "默認圖標";
+"OneWidgetBlue" = "藍色圖標";
+"OneWidgetDark" = "深色圖標";
+"Developer" = "支持獨立開發者";
+"Weibo" = "作者微博";
+"Twitter" = "作者推特";
+"Bilibili" = "嗶哩嗶哩";
+"Comment" = "好評鼓勵";
+"Feedback" = "反饋問題";
+"Share" = "分享應用";
+"Email" = "發送郵件";
+"Submit your suggestions in the following ways." = "您可以通過下面的任意方式提交您的建議。";
+"Please tell me what widgets or themes you like." = "請告訴我您希望新增的桌面小組件或者主題顏色風格。";
+"Can't Send Emails" = "無法發送郵件";
+"Can't send emails from this device.\nEmail address has been added to pasteboard." = "當前設備無法發送郵件，郵箱地址已經復制到剪貼板中，或者通過其他方式反饋。";
+
+//初始組件的文字
+"1. To Edit Mode" = "1. 長按進入編輯模式";
+"2. To Edit Widget" = "2. 點擊進入編輯組件";
+"3. To Select Kit" = "3. 選擇所需要的類型";
+"3. To Select Type" = "3. 選擇所需要的類型";
+"4. To Select Theme" = "4. 選擇所喜歡的主題";
+
+//組件輸入的提示
+
+"Add Water" = "添加飲水記錄";
+"Add Weight" = "添加體重測量記錄";
+"Add Stand" = "添加站立記錄";
+"Add Completed Habit" = "添加打卡記錄";
+"Add Life Counter" = "添加生命倒計時";
+"Add Age Calculator" = "添加年齡計算器";
+"Add Date Counter" = "添加日期計算器";
+"Add Todo" = "添加待辦";
+"Add Tally" = "添加記賬";
+"Edit Water" = "編輯飲水記錄";
+"Edit Weight" = "編輯體重測量記錄";
+"Edit Stand" = "編輯站立記錄";
+"Edit Completed Habit" = "編輯打卡記錄";
+"Edit Life Counter" = "編輯生命倒計時";
+"Edit Age Calculator" = "編輯年齡計算器";
+"Edit Date Counter" = "編輯日期計算器";
+"Edit Todo" = "編輯待辦";
+"Edit Tally" = "編輯記賬";
+"Please Input Data" = "請輸入數據";
+"Input Water Quantity" = "輸入飲水量";
+"Input Your Weight" = "輸入測量體重";
+"Input Standing Time" = "輸入站立時長";
+"Input Habit Content" = "輸入打卡內容";
+"Input Event" = "輸入事件";
+"Input Todo" = "輸入待辦";
+"Input Detail" = "輸入詳情";
+"Input Amount" = "輸入金額";
+"Select Date" = "選擇日期";
+"Select Birthday" = "選擇出生日期";
+"Input Name/Relationship" = "輸入姓名或者關系";
+"Gender" = "性別";
+"Cancel" = "取消";
+"Save" = "保存";
+"Delete" = "刪除";
+"Update" = "更新";
+"Got it!" = "知道了";
+"Date:" = "日期：";
+"Input Your Motto" = "輸入您的寄語";
+"Please Add Your Motto" = "請輸入您的寄語";
+"Please Add LifeCounter" = "請添加生命倒計時";
+"Please Add AgeCalculator" = "請添加年齡計算器";
+"Please Add DateCounter" = "請添加日期計算器";
+"Please Add Todo" = "請添加待辦事項";
+"Please Add Agenda" = "請添加日程計劃";
+"Please Add Reminder" = "請添加提醒事項";
+"Please Add Agenda" = "請添加日程計劃";
+"Please Enable Permissions" = "請授權系統數據";
+"Enable Permissions" = "點擊授權數據";
+"Add Photo" = "添加圖片";
+"Photo Name" = "圖片名稱";
+
+//小組件的翻譯
+"Recently" = "最近";
+"None Recently" = "最近沒有數據";
+"1500~2000ML/Day" = "1500~2000毫升/天";
+"60MIN/Day" = "60分鐘/天";
+"10 Times/Day" = "10次/天";
+"One Time/Day" = "1次/天";
+"Age" = "年齡";
+"Female" = "女";
+"Male" = "男";
+"Ago" = "天前";
+"Today" = "今天";
+"Later" = "天後";
+"Expenditure" = "支出";
+"Income" = "收入";
+"EXP." = "支出";
+"INC." = "收入";
+"Total" = "總計";
+"Hot" = "熱門";
+"New" = "最新";
+"Clock" = "時鐘";
+"Date" = "日期";
+"Static" = "靜態";
+"System" = "系統";
+"Todo" = "待辦事項";
+"ML" = "毫升";
+"KG" = "公斤";
+"MIN" = "分鐘";
+"Time" = "次";
+
+
+"OneWidget is an application that contains a variety of homescreen widgets." = "OneWidget 是壹個集合了多種桌面小組件的應用。";
+"You can get multiple widgets for one application by adding multiple widgets and setting them to different types." = "妳可以通過添加多次桌面小組件，設置小組件為不同的類型，從而獲得壹個應用的多個小組件。";
+"In the meantime, I have prepared a tutorial for you, please click the link below to learn more." = "同時，為大家準備了相關教程，點擊下面鏈接了解。";
+
+//通知
+"Please Open App To Update Widgets" = "請打開主應用以更新桌面小組件";
+"Last Update" = "上傳更新";
+"Update Widgets" = "更新桌面小組件";
+
+//日期
+"January" = "壹月";
+"February" = "二月";
+"March" = "三月";
+"April" = "四月";
+"May" = "五月";
+"June" = "六月";
+"July" = "七月";
+"August" = "八月";
+"September" = "九月";
+"October" = "十月";
+"November" = "十壹月";
+"December" = "十二月";
+"SUN" = "日";
+"MON" = "壹";
+"TUE" = "二";
+"WED" = "三";
+"THU" = "四";
+"FRI" = "五";
+"SAT" = "六";
+"Sunday" = "星期日";
+"Monday" = "星期壹";
+"Tuesday" = "星期二";
+"Wednesday" = "星期三";
+"Thursday" = "星期四";
+"Friday" = "星期五";
+"Saturday" = "星期六";
+"Total Storage" = "總存儲空間";
+"Free Storage" = "剩余存儲空間";
+"All Day" = "全天";
+"\nto " = "\n至 ";
+
+"OneWidget Kit" = "OneWidget工具集";
+"Single" = "單組件";
+"Small Single" = "小尺寸（單組件）";
+"Medium Single" = "中尺寸（單組件）";
+"Large Single" = "大尺寸（單組件）";
+"Large Double" = "大尺寸（雙組件）";
+"Large Three" = "大尺寸（三組件）";
+"Large Four" = "大尺寸（四組件）";
+"Medium Double" = "中尺寸（雙組件）";
+"Show One Widget" = "顯示壹個小組件";
+"Show Double Widgets (Left/Right)" = "顯示兩個小組件（左/右）";
+"Show Double Widgets (Up/Down)" = "顯示兩個小組件（上/下）";
+"Show Three Widgets(Custom)" = "顯示三個小組件（可自定義）";
+"Show Four Widgets(Custom)" = "顯示四個小組件（可自定義）";
+"Up/LeftDown/RightDown" = "上/左下/右下";
+"LeftUp/RightUp/Down" = "左上/右上/下";
+
+"Today is Friday?" = "今天是周五嗎？";
+"NO" = "不是";
+"YES" = "是的";
+
+"Choose Photo" = "選擇圖片";
+"Save Successfully!" = "保存成功！";
+"Add To HomeScreen,Choose Your Photo Name" = "添加組件到桌面，配置時選擇對應的圖片名稱";
+"Do't need to choose" = "當前類型無須選擇";
+"NO Data" = "暫無數據可選";
+"Edit Photo" = "編輯圖片";
+"It is recommended to upload images less than 1m." = "推薦上傳1M以內的圖片。";
+
+"Your Reminder task data can be shown in the Reminders widget and tool.OneWidget just read data to show." = "妳的提醒事項任務數據將被展現在提醒事項的組件和工具中，OneWidget只是讀取他們進行展示。";
+"Your Calendar event data can be shown in the Agenda widget and tool.OneWidget just read data to show." = "妳的日歷任務數據將被展現在日歷日程的組件和工具中，OneWidget只是讀取他們進行展示。";
+"Choose Tint Color" = "選擇前景顏色";
+"Choose Background" = "選擇背景";
+"Background" = "背景";
+"Tint Color" = "前景顏色";
+"Photo" = "圖片";
+"Photo: " = "圖片: ";
+"Background Color" = "背景顏色";
+"Add Background Photo" = "添加背景圖片";
+"Background Photo" = "背景圖片";
+"When Choose Theme, Choose Your Photo Name" = "當選擇背景時，選擇圖片名稱進行設置。";
+"More Widgets Are Coming." = "更多桌面小組件即將推出！";
+"Nil" = "無";
