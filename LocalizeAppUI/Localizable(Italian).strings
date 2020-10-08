@@ -1,0 +1,282 @@
+/*
+  Localizable.strings
+  OneWidget
+
+  Created by xDEHANG on 2020/8/14.
+  
+*/
+"Home" = "Home";
+"Preview" = "Anteprima";
+"Setting" = "Impostazioni";
+"Search Widgets" = "Cerca Widget";
+"Widgets in One App" = "Widgets in One App";
+"Widget" = "Widget";
+"Theme" = "Tema";
+"Submit" = "Invia";
+"Back" = "Indietro";
+"Small" = "Piccolo";
+"Medium" = "Medio";
+"Large" = "Grande";
+"Data" = "Dati";
+"There is no data at present." = "Non ci sono dati presenti.";
+"There is no incomplete reminders at present." = "Non ci sono reminder incompleti.";
+
+
+"Random Color" = "Colore random";
+"Red" = "Rosso";
+"White" = "Bianco";
+"Blue" = "Blu";
+"Coral" = "Corallo";
+"Orange" = "Arancio";
+"Yellow" = "Giallo";
+"Green" = "Verde";
+"Turquoise" = "Turchese";
+"LightBlue" = "Celeste";
+"SkyBlue" = "Blu cielo";
+"RoyalBlue" = "Blu royal";
+"MediumPurple" = "Viola medio";
+"Purple" = "Porpora";
+"Violet" = "Viola";
+"Pink" = "Rosa";
+"Silver" = "Argento";
+"DarkSeaGreen" = "Verde mare scuro";
+"RosyBrown" = "Marrone";
+"Gray" = "Grigio";
+"Black" = "Nero";
+
+
+"DefaultView" = "Vista default";
+"InitialView" = "Vista iniziale";
+"MyMotto" = "Motto personale";
+"DailyMotto" = "Motto del giorno";
+"DigitalClock" = "Orologio digitale";
+"RectangleClock" = "Orologio rettangolare";
+"SquareDate" = "Data quadrata";
+"DesktopCalendar" = "Calendario desktop";
+"LunarCalendar" = "Calendario lunare";
+"TodayDate" = "Data di oggi";
+"TodayLunar" = "Lunare di oggi";
+"StorageSpace" = "Spazio archiviazione";
+"DailyWater" = "Acqua di oggi";
+"DailyWeight" = "Peso di oggi";
+"DailyStand" = "In piedi oggi";
+"DailyHabit" = "Abitudini giornaliere";
+"LifeCounter" = "Contatore vita";
+"AgeCalculator" = "Contatore età";
+"DateCounter" = "Contatore data";
+"TodoList" = "Lista ToDo";
+"TallyBook" = "Tally NoteBook";
+"Agenda" = "Agenda";
+"Reminder" = "Promemoria";
+"Reminders" = "Tutti i promemoria";
+"FridayCalendar" = "Calendario del venerdì";
+"PhotoWidget" = "Widget foto";
+
+"Choose Type" = "Scegli Tipo";
+"Choose Data" = "Scegli Data";
+"Choose Them" = "Scegli Questi";
+
+
+"Tips" = "Trucchi";
+"iCloud" = "iCloud";
+"AppIcon" = "Icona app";
+"OneWidgetDefault" = "OneWidget Default";
+"OneWidgetBlue" = "OneWidget Blu";
+"OneWidgetDark" = "OneWidget Scuro";
+"Developer" = "Svluppatore";
+"Weibo" = "Weibo";
+"Twitter" = "Twitter";
+"Bilibili" = "Bilibili";
+"Comment" = "Commenta";
+"Feedback" = "Feedback";
+"Share" = "Condividi";
+"Email" = "Email";
+"Submit your suggestions in the following ways." = "Inviaci i tuoi suggerimenti.";
+"Please tell me what widgets or themes you like." = "Per favore indica i temi e i widget che apprezzi.";
+"Can't Send Emails" = "Non inviare email";
+"Can't send emails from this device.\nEmail address has been added to pasteboard." = "Non è possibile inviare mail da questo dispositivo.\nEmail indirizzo aggiunto alla pasteboard.";
+
+
+"1. To Edit Mode" = "1. Modalità editing";
+"2. To Edit Widget" = "2. Modifica widget";
+"3. To Select Kit" = "3. Seleziona il kit";
+"3. To Select Type" = "3. Seleziona il tipo";
+"4. To Select Theme" = "4. Seleziona il tema";
+
+
+
+"Add Water" = "Aggiungi acqua";
+"Add Weight" = "Aggiungi peso";
+"Add Stand" = "Aggiungi tempo in piedi";
+"Add Completed Habit" = "Aggiungi abitudine completata";
+"Add Life Counter" = "Aggiungi contatore di vita";
+"Add Age Calculator" = "Aggiungi contatore di età";
+"Add Date Counter" = "Aggiungi contatore data";
+"Add Todo" = "Aggiungi ToDo";
+"Add Tally" = "Aggiungi Nota Tally";
+"Edit Water" = "Modifica acqua";
+"Edit Weight" = "Modifica peso";
+"Edit Stand" = "Modifica tempo in piedi";
+"Edit Completed Habit" = "Modifica abitudine completata";
+"Edit Life Counter" = "Modifica contatore vita";
+"Edit Age Calculator" = "Modifica calcolatore di età";
+"Edit Date Counter" = "Modifica contatore data";
+"Edit Todo" = "Modifica ToDo";
+"Edit Tally" = "Modifica nota Tally";
+"Please Input Data" = "Per favore inserisci dati";
+"Input Water Quantity" = "Inserisci quantità di acqua";
+"Input Your Weight" = "Inserisci il tuo peso";
+"Input Standing Time" = "Inserisci il tuo tempo in piedi";
+"Input Habit Content" = "Inserisci Abitudine";
+"Input Event" = "Inserisci Evento";
+"Input Todo" = "Inserisci ToDo";
+"Input Detail" = "inserisci Dettaglio";
+"Input Amount" = "Inserisci Quantità";
+"Select Date" = "Seleziona Data" ;
+"Select Birthday" = "Seleziona Compleanno";
+"Input Name/Relationship" = "Inserisci Nome/Relazione";
+"Gender" = "Genere";
+"Cancel" = "Annulla";
+"Save" = "Salva";
+"Delete" = "Cancella";
+"Update" = "Aggiorna";
+"Got it!" = "Capito!";
+"Date:" = "Data:";
+"Input Your Motto" = "Inserisci il tuo Motto";
+"Please Add Your Motto" = "Per favore inserisci il tuo Motto";
+"Please Add LifeCounter" = "Per favore inserisci il contatore di vita";
+"Please Add AgeCalculator" = "Per favore inserisci il calcolatore di età";
+"Please Add DateCounter" = "Per favore inserisci il contatore di data";
+"Please Add Todo" = "Per favore inserisci ToDo";
+"Please Add Agenda" = "Per favore inserisci Agenda";
+"Please Add Reminder" = "Per favore inserisci Promemoria";
+"Please Add Agenda" = "Per favore inserisci Agenda";
+"Please Enable Permissions" = "Per favore abilita i permessi";
+"Enable Permissions" = "Abilita i permessi";
+"Add Photo" = "Aggiungi immagine";
+"Photo Name" = "Nome immagine";
+
+
+"Recently" = "Recenti";
+"None Recently" = "Nessuno recente";
+"1500~2000ML/Day" = "1500~2000ML/Giorno";
+"60MIN/Day" = "60MIN/Giorno";
+"10 Times/Day" = "10 Volte/Giorno";
+"One Time/Day" = "Una Volta/Giorno";
+"Age" = "Età";
+"Female" = "Femmina";
+"Male" = "Maschio";
+"Ago" = "fa";
+"Today" = "Oggi";
+"Later" = "Dopo";
+"Expenditure" = "Spese";
+"Income" = "Incassi";
+"EXP." = "SPESE.";
+"INC." = "INCASSI.";
+"Total" = "Totale";
+"Hot" = "Caldo";
+"New" = "Nuovo";
+"Clock" = "Orologio";
+"Date" = "Data";
+"Static" = "Statico";
+"System" = "Sistema";
+"Todo" = "ToDo";
+"ML" = "ML";
+"KG" = "KG";
+"MIN" = "MIN";
+"Time" = "Tempo";
+
+
+"OneWidget is an application that contains a variety of homescreen widgets." = "OneWidget è una applicazione che contiene una varietà do widhet per la homescreen.";
+"You can get multiple widgets for one application by adding multiple widgets and setting them to different types." = "Puoi avere widget multipli, aggiungendo i widget e impostandoli come tipologie differenti.";
+"In the meantime, I have prepared a tutorial for you, please click the link below to learn more." = "Abbiamo preparato un tutorial, per favore fai clic sul link sotto per saperne di più.";
+
+//
+"Please Open App To Update Widgets" = "Per favore, apri la app per aggiornare tutti i widget";
+"Last Update" = "Ultimo aggiornamento";
+"Update Widgets" = "Aggiorna i widget";
+
+//
+"January" = "Gennaio";
+"February" = "Febbraio";
+"March" = "Marzo";
+"April" = "Aprile";
+"May" = "Maggio";
+"June" = "Giugno";
+"July" = "Luglio";
+"August" = "Agosto";
+"September" = "Settembre";
+"October" = "Ottobre";
+"November" = "Novembre";
+"December" = "Dicembre";
+"SUN" = "DOM";
+"MON" = "LUN";
+"TUE" = "MAR";
+"WED" = "MER";
+"THU" = "GIO";
+"FRI" = "VEN";
+"SAT" = "SAB";
+"Sunday" = "Domenica";
+"Monday" = "Lunedì";
+"Tuesday" = "Martedì";
+"Wednesday" = "Mercoledì";
+"Thursday" = "Giovedì";
+"Friday" = "Venedì";
+"Saturday" = "Sabato";
+"Total Storage" = "Spazio totale";
+"Free Storage" = "Spazio libero";
+"All Day" = "Tutti i giorni";
+"\nto " = "\nto ";
+
+"OneWidget Kit" = "Kit di OneWidget";
+"Single" = "Singolo";
+"Small Single" = "Singolo Piccolo";
+"Medium Single" = "Singolo Medio";
+"Large Single" = "Singolo Grande";
+"Large Double" = "Doppio Grande";
+"Large Three" = "Grande Tre";
+"Large Four" = "Grabde Quattro";
+"Medium Double" = "Doppio Medio";
+"Show One Widget" = "Mostra un Widget";
+"Show Double Widgets (Left/Right)" = "Mostra Doppi Widget (Sinistra/Destra)";
+"Show Double Widgets (Up/Down)" = "Mostra Doppi Widget (Sopra/Sotto)";
+"Show Three Widgets(Custom)" = "Mostra Tre Widget (Custom)";
+"Show Four Widgets(Custom)" = "Mostra Quatto Widget (Custom)";
+"Up/LeftDown/RightDown" = "Sopra/SxBasso/DxBasso";
+"LeftUp/RightUp/Down" = "SxAlto/DxAlto/Basso";
+
+"Today is Friday?" = "Oggi è Venerdì?";
+"NO" = "NO";
+"YES" = "SI";
+
+"Choose Photo" = "Scegli Foto";
+"Save Successfully!" = "Salvato con successo!";
+"Add To HomeScreen,Choose Your Photo Number" = "Aggiungi alla HomeScreen,Scegli il numero della foto";
+"Do't need to choose" = "Non devi scegliere";
+"NO Data" = "NO Dati";
+"Edit Photo" = "Edita la foto";
+"It is recommended to upload images less than 1m." = "Raccomandiamo di caricare immagini sotto 1mb.";
+
+"Your Reminder task data can be shown in the Reminders widget and tool.OneWidget just read data to show." = "I tuoi promemoria possono essere mostrati nel Widget dei Promemoria, OneWidget leggerà i dati da visualizzare";
+"Your Calendar event data can be shown in the Agenda widget and tool.OneWidget just read data to show." = "I tuoi eventi di Calendario possono essere mostrati nel Widget Agenda, OneWidget leggerà i dati da visualizzare";
+"Choose Tint Color" = "Scegli colore tinta";
+"Tint Color" = "Colore tinta";
+"Photo" = "Foto";
+"Background Color" = "Colore del Background";
+"Add Background Photo" = "Aggiungi una foto di Background";
+"Add Background Color" = "Aggiungi Colore del Background";
+"Add Tint Color" = "Aggiungi Colore tinta";
+"Background Photo" = "Foto di Background";
+"When Choose Theme, Choose Your Photo Number" = "Qundo scegli il tema,Scegli il numero della foto";
+"More Widgets Are Coming." = "Altri widget sono in arrivo!.";
+"Nil" = "Nessun dato";
+"You can choose parameter to preview" = "Puoi selezionare i parametri per l'anteprima";
+
+//widgets
+"First Type" = "Primo tipo";
+"Second Type" = "Secondo tipo";
+"Third Type" = "Terzo tipo";
+"Fourth Type" = "Quarto tipo";
+"Mode" = "Modo";
+" #Index(Data/Style)" = " #Index(Dati/Stile)";
+"Choose Theme" = "scegli il tema";

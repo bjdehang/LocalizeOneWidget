@@ -7,7 +7,7 @@
 */
 "Home" = "Accueil";
 "Preview" = "Aperçu";
-"Setting" = "Réglage";
+"Setting" = "Réglages";
 "Search Widgets" = "Rechercher des widgets =";
 "Widgets in One App" = "Des widgets dans une seule application";
 "Widget" = "Widget";
@@ -95,6 +95,7 @@
 "Please tell me what widgets or themes you like." = "S'il vous plait dites moi quels widgets ou themes vous aimez";
 "Can't Send Emails" = "Impossible d'envoyer des courriels";
 "Can't send emails from this device.\nEmail address has been added to pasteboard." = "Impossible d'envoyer des courriels depuis cet appareil et l'adresse ./nEmail a été ajoutée";
+
 
 "1. To Edit Mode" = "Pour modifier le mode";
 "2. To Edit Widget" = "Pour modifier le widget";
@@ -210,7 +211,7 @@
 "December" = "Décembre";
 "SUN" = "DIM";
 "MON" = "LUN";
-"TUE" = "MAR";
+"TUE" = "MER";
 "WED" = "MER";
 "THU" = "JEU";
 "FRI" = "VEN";
@@ -250,7 +251,7 @@
 
 "Choose Photo" = "Choisir une photo";
 "Save Successfully!" = "Sauvegarde réussie !";
-"Add To HomeScreen,Choose Your Photo Name" = "Ajouter à l'écran d'accueil, choisissez le nom de votre photo";
+"Add To HomeScreen,Choose Your Photo Number" = "Ajouter à l'écran d'accueil, choisissez le Numéro de la photo";
 "Don't need to choose" = "Pas besoin de choisir";
 "NO Data" = "Pas de donnée";
 "Edit Photo" = "Editer la photo";
@@ -262,19 +263,16 @@
 "Tint Color" = "Couleur de la teinte";
 "Photo" = "Photo";
 "Background Color" = "Couleur";
-
-//1.1.0
-"Add Background Photo" = "";
-"Background Photo" = "";
-"When Choose Theme, Choose Your Photo Name" = "";
-"More Widgets Are Coming." = "";
-"Nil" = "";
-"You can choose parameter to preview" = "";
-
-//widgets
-"First Type" = "";
-"Second Type" = "";
-"Third Type" = "";
-"Fourth Type" = "";
-"Mode" = "";
-"Second #Index(Data/Style)" = "";
+"Add Background Photo" = "ajouter une photo en fond";
+"Add Background Color" = "ajouter Couleur";
+"Add Tint Color" = "ajouter Couleur de la teinte";
+"Background Photo" = "Photo en fond";
+"When Choose Theme, Choose Your Photo Number" = "lorsque vous choisissez un thème, choisissez le Numéro de la photo";
+"More Widgets Are Coming." = "d’autres widgets arrivent";
+"First Type" = "premier type";
+"Second Type" = "deuxième type";
+"Third Type" = "troisième type";
+"Fourth Type" = "quatrième type";
+"Mode" = "mode";
+" #Index(Data/Style)" = " #Index(Data/Style)";
+"Choose Theme" = "choisissez un thème";

@@ -17,4 +17,5 @@ link: [OneWidget (AppStore)](https://apps.apple.com/us/app/id1527355884)
 - [x] Chinese Hang Kong
 - [x] Chinese Traditional 
 - [ ] Japanese 
+- [ ] Arabic
 

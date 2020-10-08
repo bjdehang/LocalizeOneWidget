@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   OneWidget
   Created by xDEHANG on 2020/8/14.
@@ -191,7 +191,7 @@
 
 //通知
 "Please Open App To Update Widgets" = "请打开主应用以更新桌面小组件";
-"Last Update" = "上传更新";
+"Last Update" = "上次更新";
 "Update Widgets" = "更新桌面小组件";
 
 //日期
@@ -249,7 +249,7 @@
 
 "Choose Photo" = "选择图片";
 "Save Successfully!" = "保存成功！";
-"Add To HomeScreen,Choose Your Photo Name" = "添加组件到桌面，配置时选择对应的图片名称";
+"Add To HomeScreen,Choose Your Photo Number" = "添加组件到桌面，配置时选择对应的图片编号";
 "Do't need to choose" = "当前类型无须选择";
 "NO Data" = "暂无数据可选";
 "Edit Photo" = "编辑图片";
@@ -265,8 +265,41 @@
 "Photo: " = "图片: ";
 "Background Color" = "背景颜色";
 "Add Background Photo" = "添加背景图片";
+"Add Background Color" = "添加背景颜色";
+"Add Tint Photo" = "添加前景颜色";
 "Background Photo" = "背景图片";
-"When Choose Theme, Choose Your Photo Name" = "当选择背景时，选择图片名称进行设置。";
+"When Choose Theme, Choose Your Photo Number" = "当选择背景时，选择图片编号进行设置。";
 "More Widgets Are Coming." = "更多桌面小组件即将推出！";
 "Nil" = "无";
 "You can choose parameter to preview" = "你可以选择参数进行预览";
+"Choose Theme" = "选择背景";
+"Edit Color" = "编辑颜色";
+"Choose Color" = "选择颜色";
+"Add Color" = "添加颜色";
+"Color Name" = "颜色名称";
+"Add Tint Color" = "添加前景颜色";
+"Color" = "颜色";
+"When Choose Theme, Choose Your Color Number" = "当选择背景时，选择颜色编号进行设置。";
+"When Choose Tint Color, Choose Your Color Number" = "当选择前景颜色时，选择颜色编号进行设置。";
+"Choose Index" = "选择";
+"TextWidget" = "文本组件";
+"Please Add Your Text" = "请添加您的文本";
+"Input Your Text" = "请输入文本";
+"Leading" = "靠左";
+"Trailing" = "靠右";
+"Center" = "居中";
+"Add Text" = "添加文本";
+"Edit Text" = "编辑文本";
+"Thanks for your translation." = "感谢帮助翻译应用";
+"Thanks for your recommendation." = "感谢您的推荐";
+"Special Thanks" = "特别感谢";
+"Name" = "名称";
+"Model" = "类型";
+"Device" = "设备信息";
+"Battery" = "电池信息";
+"Charging" = "充电中";
+"Full" = "已充满";
+"Unplugged" = "耗电中";
+"unknown" = "未知";
+"LowPower" = "低电量模式";
+"Participating in the translation project." = "参与本地化应用";
