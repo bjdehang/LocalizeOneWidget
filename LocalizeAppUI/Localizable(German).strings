@@ -270,6 +270,96 @@
 "Nil" = "";
 "You can choose parameter to preview" = "";
 
+"Choose Theme" = "";
+"Update Color" = "";
+"Choose Color" = "";
+"Add Color" = "";
+"Color Name" = "";
+"Add Tint Color" = "";
+"Color" = "";
+"When Choose Theme, Choose Your Color Number" = "";
+"When Choose Tint Color, Choose Your Color Number" = "";
+"Choose Index" = "";
+"TextWidget" = "";
+"Please Add Your Text" = "";
+"Input Your Text" = "";
+"Leading" = "";
+"Trailing" = "";
+"Center" = "";
+"Add Text" = "";
+"Edit Text" = "";
+"Thanks for your translation." = "";
+"Thanks for your recommendation." = "";
+"Special Thanks" = "";
+"Name" = "";
+"Model" = "";
+"Device" = "";
+"Battery" = "";
+"Charging" = "";
+"Full" = "";
+"Unplugged" = "";
+"unknown" = "";
+"LowPower" = "";
+"Participating in the translation project." = "";
+"Volume" = "";
+"Brightness" = "";
+"YearProgress" = "";
+"Year Progress" = "";
+"MonthProgress" = "";
+"Month Progress" = "";
+"WeekProgress" = "";
+"Week Progress" = "";
+
+//1.7.0
+"Steps" = "";
+"Distance" = "";
+"Active Energy" = "";
+"Exercise Time" = "";
+"7 Day Average" = "";
+"Health" = "";
+"Stand Time" = "";
+"Flights Climbed" = "";
+"Basal Energy Burned" = "";
+"Distance Swimming" = "";
+"Distance Cycling" = "";
+"Distance Downhill Snow Sports" = "";
+"Distance Wheelchair" = "";
+"Push Count" = "";
+"Your Health Data can be updated in widgets.\nOneWidget just save and read data to show." = "";
+"Total Widgets" = "";
+"All" = "";
+"Load Data" = "";
+"Only the last 15 items datum.\nPlease open Health App for more datum." = "";
+
+//1.8.0
+"7 Item Maximum" = "";
+"Body Mass" = "";
+"Height" = "";
+"Headphone Audio Exposure" = "";
+"Environmental Audio Exposure" = "";
+
+//1.9.0
+"Small - Single" = "";
+"Medium - Single" = "";
+"Large - Single" = "";
+"Medium - Double" = "";
+"Large - Double" = "";
+"Large - Three" = "";
+"Large - Four" = "";
+"Size" = "";
+"Mode" = "";
+"First Type" = "";
+"First Index" = "";
+"Second Type" = "";
+"Second Index" = "";
+"Third Type" = "";
+"Third Index" = "";
+"Fourth Type" = "";
+"Fourth Index" = "";
+"Tint Color" = "";
+"Background" = "";
+"Tips: Edit widgets when you added them on HomeScreen" = "";
+
 //widgets
 "First Type" = "";
 "Second Type" = "";

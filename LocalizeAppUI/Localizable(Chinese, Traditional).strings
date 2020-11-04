@@ -17,7 +17,7 @@
 "Large" = "大尺寸";
 "Data" = "數據";
 "There is no data at present." = "當前沒有數據";
-"There is no incomplete reminders at present." = "當前沒有未完成的提醒事項。";
+"There are no incomplete reminders at present." = "當前沒有未完成的提醒事項。";
 
 //主題的名字
 "Random Color" = "隨機顏色";
@@ -46,14 +46,14 @@
 "DefaultView" = "初始頁面";
 "InitialView" = "初始頁面";
 "MyMotto" = "我的寄語";
-"DailyMotto" = "每日一言";
+"DailyMotto" = "每日壹言";
 "DigitalClock" = "數字時鐘";
 "RectangleClock" = "矩形時鐘";
 "SquareDate" = "方塊日子";
-"DesktopCalendar" = "桌面日曆";
-"LunarCalendar" = "桌面農曆";
+"DesktopCalendar" = "桌面日歷";
+"LunarCalendar" = "桌面農歷";
 "TodayDate" = "今日日期";
-"TodayLunar" = "今日農曆";
+"TodayLunar" = "今日農歷";
 "StorageSpace" = "存儲空間";
 "DailyWater" = "每日飲水";
 "DailyWeight" = "每日體重";
@@ -63,11 +63,11 @@
 "AgeCalculator" = "年齡計算器";
 "DateCounter" = "日期計算器";
 "TodoList" = "待辦清單";
-"TallyBook" = "極簡記帳";
+"TallyBook" = "極簡記賬";
 "Agenda" = "日程計劃";
 "Reminder" = "提醒事項";
 "Reminders" = "提醒事項";
-"FridayCalendar" = "周五日曆";
+"FridayCalendar" = "周五日歷";
 "PhotoWidget" = "圖片組件";
 
 "Choose Type" = "選擇種類";
@@ -92,7 +92,7 @@
 "Submit your suggestions in the following ways." = "您可以通過下面的任意方式提交您的建議。";
 "Please tell me what widgets or themes you like." = "請告訴我您希望新增的桌面小組件或者主題顏色風格。";
 "Can't Send Emails" = "無法發送郵件";
-"Can't send emails from this device.\nEmail address has been added to pasteboard." = "當前設備無法發送郵件，郵箱地址已經複製到剪貼板中，或者通過其他方式反饋。";
+"Can't send emails from this device.\nEmail address has been added to pasteboard." = "當前設備無法發送郵件，郵箱地址已經復制到剪貼板中，或者通過其他方式反饋。";
 
 //初始組件的文字
 "1. To Edit Mode" = "1. 長按進入編輯模式";
@@ -111,7 +111,7 @@
 "Add Age Calculator" = "添加年齡計算器";
 "Add Date Counter" = "添加日期計算器";
 "Add Todo" = "添加待辦";
-"Add Tally" = "添加記帳";
+"Add Tally" = "添加記賬";
 "Edit Water" = "編輯飲水記錄";
 "Edit Weight" = "編輯體重測量記錄";
 "Edit Stand" = "編輯站立記錄";
@@ -120,7 +120,7 @@
 "Edit Age Calculator" = "編輯年齡計算器";
 "Edit Date Counter" = "編輯日期計算器";
 "Edit Todo" = "編輯待辦";
-"Edit Tally" = "編輯記帳";
+"Edit Tally" = "編輯記賬";
 "Please Input Data" = "請輸入數據";
 "Input Water Quantity" = "輸入飲水量";
 "Input Your Weight" = "輸入測量體重";
@@ -132,7 +132,7 @@
 "Input Amount" = "輸入金額";
 "Select Date" = "選擇日期";
 "Select Birthday" = "選擇出生日期";
-"Input Name/Relationship" = "輸入姓名或者關係";
+"Input Name/Relationship" = "輸入姓名或者關系";
 "Gender" = "性別";
 "Cancel" = "取消";
 "Save" = "保存";
@@ -166,7 +166,7 @@
 "Male" = "男";
 "Ago" = "天前";
 "Today" = "今天";
-"Later" = "天后";
+"Later" = "天後";
 "Expenditure" = "支出";
 "Income" = "收入";
 "EXP." = "支出";
@@ -185,9 +185,9 @@
 "Time" = "次";
 
 
-"OneWidget is an application that contains a variety of homescreen widgets." = "OneWidget 是一個集合了多種桌面小組件的應用。";
-"You can get multiple widgets for one application by adding multiple widgets and setting them to different types." = "你可以通過添加多次桌面小組件，設置小組件為不同的類型，從而獲得一個應用的多個小組件。";
-"In the meantime, I have prepared a tutorial for you, please click the link below to learn more." = "同時，為大家準備了相關教程，點擊下面連結了解。";
+"OneWidget is an application that contains a variety of homescreen widgets." = "OneWidget 是壹個集合了多種桌面小組件的應用。";
+"You can get multiple widgets for one application by adding multiple widgets and setting them to different types." = "妳可以通過添加多次桌面小組件，設置小組件為不同的類型，從而獲得壹個應用的多個小組件。";
+"In the meantime, I have prepared a tutorial for you, please click the link below to learn more." = "同時，為大家準備了相關教程，點擊下面鏈接了解。";
 
 //通知
 "Please Open App To Update Widgets" = "請打開主應用以更新桌面小組件";
@@ -195,7 +195,7 @@
 "Update Widgets" = "更新桌面小組件";
 
 //日期
-"January" = "一月";
+"January" = "壹月";
 "February" = "二月";
 "March" = "三月";
 "April" = "四月";
@@ -205,24 +205,24 @@
 "August" = "八月";
 "September" = "九月";
 "October" = "十月";
-"November" = "十一月";
+"November" = "十壹月";
 "December" = "十二月";
 "SUN" = "日";
-"MON" = "一";
+"MON" = "壹";
 "TUE" = "二";
 "WED" = "三";
 "THU" = "四";
 "FRI" = "五";
 "SAT" = "六";
 "Sunday" = "星期日";
-"Monday" = "星期一";
+"Monday" = "星期壹";
 "Tuesday" = "星期二";
 "Wednesday" = "星期三";
 "Thursday" = "星期四";
 "Friday" = "星期五";
 "Saturday" = "星期六";
 "Total Storage" = "總存儲空間";
-"Free Storage" = "剩餘存儲空間";
+"Free Storage" = "剩余空間";
 "All Day" = "全天";
 "\nto " = "\n至 ";
 
@@ -235,7 +235,7 @@
 "Large Three" = "大尺寸（三組件）";
 "Large Four" = "大尺寸（四組件）";
 "Medium Double" = "中尺寸（雙組件）";
-"Show One Widget" = "顯示一個小組件";
+"Show One Widget" = "顯示壹個小組件";
 "Show Double Widgets (Left/Right)" = "顯示兩個小組件（左/右）";
 "Show Double Widgets (Up/Down)" = "顯示兩個小組件（上/下）";
 "Show Three Widgets(Custom)" = "顯示三個小組件（可自定義）";
@@ -251,12 +251,12 @@
 "Save Successfully!" = "保存成功！";
 "Add To HomeScreen,Choose Your Photo Number" = "添加組件到桌面，配置時選擇對應的圖片編號";
 "Do't need to choose" = "當前類型無須選擇";
-"NO Data" = "暫無數據可選";
-"Edit Photo" = "編輯圖片";
+"NO Data" = "暫無數據";
+"Update Photo" = "更新圖片";
 "It is recommended to upload images less than 1m." = "推薦上傳1M以內的圖片。";
 
-"Your Reminder task data can be shown in the Reminders widget and tool.OneWidget just read data to show." = "你的提醒事項任務數據將被展現在提醒事項的組件和工具中，OneWidget只是讀取他們進行展示。";
-"Your Calendar event data can be shown in the Agenda widget and tool.OneWidget just read data to show." = "你的日曆任務數據將被展現在日曆日程的組件和工具中，OneWidget只是讀取他們進行展示。";
+"Your Reminder task data can be shown in the Reminders widget and tool.OneWidget just read data to show." = "妳的提醒事項任務數據將被展現在提醒事項的組件和工具中，OneWidget只是讀取他們進行展示。";
+"Your Calendar event data can be shown in the Agenda widget and tool.OneWidget just read data to show." = "妳的日歷任務數據將被展現在日歷日程的組件和工具中，OneWidget只是讀取他們進行展示。";
 "Choose Tint Color" = "選擇前景顏色";
 "Choose Background" = "選擇背景";
 "Background" = "背景";
@@ -266,14 +266,19 @@
 "Background Color" = "背景顏色";
 "Add Background Photo" = "添加背景圖片";
 "Add Background Color" = "添加背景顏色";
-"Add Tint Color" = "添加前景顏色";
-"Color" = "顏色";
+"Add Tint Photo" = "添加前景顏色";
 "Background Photo" = "背景圖片";
 "When Choose Theme, Choose Your Photo Number" = "當選擇背景時，選擇圖片編號進行設置。";
 "More Widgets Are Coming." = "更多桌面小組件即將推出！";
 "Nil" = "無";
-"You can choose parameter to preview" = "你可以選擇參數進行預覽";
+"You can choose parameter to preview" = "妳可以選擇參數進行預覽";
 "Choose Theme" = "選擇背景";
+"Update Color" = "更新顏色";
+"Choose Color" = "選擇顏色";
+"Add Color" = "添加顏色";
+"Color Name" = "顏色名稱";
+"Add Tint Color" = "添加前景顏色";
+"Color" = "顏色";
 "When Choose Theme, Choose Your Color Number" = "當選擇背景時，選擇顏色編號進行設置。";
 "When Choose Tint Color, Choose Your Color Number" = "當選擇前景顏色時，選擇顏色編號進行設置。";
 "Choose Index" = "選擇";
@@ -298,3 +303,61 @@
 "unknown" = "未知";
 "LowPower" = "低電量模式";
 "Participating in the translation project." = "參與本地化應用";
+"Volume" = "音量";
+"Brightness" = "亮度";
+"YearProgress" = "年進度";
+"Year Progress" = "年進度";
+"MonthProgress" = "月進度";
+"Month Progress" = "月進度";
+"WeekProgress" = "周進度";
+"Week Progress" = "周進度";
+
+//1.7.0
+"Steps" = "步數";
+"Distance" = "距離";
+"Active Energy" = "活動能量";
+"Exercise Time" = "健身記錄";
+"7 Day Average" = "7日平均";
+"Health" = "健康";
+"Stand Time" = "站立時間";
+"Flights Climbed" = "已爬樓層";
+"Basal Energy Burned" = "靜息能量";
+"Distance Swimming" = "遊泳距離";
+"Distance Cycling" = "騎車記錄";
+"Distance Downhill Snow Sports" = "高山雪上運動距離";
+"Distance Wheelchair" = "輪騎距離";
+"Push Count" = "推動次數";
+"Your Health Data can be updated in widgets.\nOneWidget just save and read data to show." = "授權後妳的健康數據可以在組件中更新。\nOneWidget僅為了做展示訪問您的數據。";
+"Total Widgets" = "小組件總數";
+"All" = "全部";
+"Load Data" = "加載數據";
+"Only the last 15 items datum.\nPlease open Health App for more datum." = "僅展示最近15條數據，更多數據請打開健康應用。";
+
+//1.8.0
+"7 Item Maximum" = "7日最大值";
+"Body Mass" = "體重";
+"Height" = "身高";
+"Headphone Audio Exposure" = "耳機音量";
+"Environmental Audio Exposure" = "環境音量";
+
+//1.9.0
+"Small - Single" = "小尺寸-單組件";
+"Medium - Single" = "中尺寸-單組件";
+"Large - Single" = "大尺寸-單組件";
+"Medium - Double" = "中尺寸-雙組件";
+"Large - Double" = "大尺寸-雙組件";
+"Large - Three" = "大尺寸-三組件";
+"Large - Four" = "大尺寸-四組件";
+"Size" = "尺寸";
+"Mode" = "模式";
+"First Type" = "第壹類型";
+"First Index" = "第壹參數";
+"Second Type" = "第二類型";
+"Second Index" = "第二參數";
+"Third Type" = "第三類型";
+"Third Index" = "第三參數";
+"Fourth Type" = "第四類型";
+"Fourth Index" = "第四參數";
+"Tint Color" = "前景";
+"Background" = "背景";
+"Tips: Edit widgets when you added them on HomeScreen" = "註意：添加小組件到桌面，進入編輯模式選擇對應參數。";

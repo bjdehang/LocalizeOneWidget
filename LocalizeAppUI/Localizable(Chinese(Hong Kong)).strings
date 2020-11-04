@@ -17,7 +17,7 @@
 "Large" = "大尺寸";
 "Data" = "數據";
 "There is no data at present." = "當前沒有數據";
-"There is no incomplete reminders at present." = "當前沒有未完成的提醒事項。";
+"There are no incomplete reminders at present." = "當前沒有未完成的提醒事項。";
 
 //主題的名字
 "Random Color" = "隨機顏色";
@@ -222,7 +222,7 @@
 "Friday" = "星期五";
 "Saturday" = "星期六";
 "Total Storage" = "總存儲空間";
-"Free Storage" = "剩餘存儲空間";
+"Free Storage" = "剩餘空間";
 "All Day" = "全天";
 "\nto " = "\n至 ";
 
@@ -251,8 +251,8 @@
 "Save Successfully!" = "保存成功！";
 "Add To HomeScreen,Choose Your Photo Number" = "添加組件到桌面，配置時選擇對應的圖片編號";
 "Do't need to choose" = "當前類型無須選擇";
-"NO Data" = "暫無數據可選";
-"Edit Photo" = "編輯圖片";
+"NO Data" = "暫無數據";
+"Update Photo" = "更新圖片";
 "It is recommended to upload images less than 1m." = "推薦上傳1M以內的圖片。";
 
 "Your Reminder task data can be shown in the Reminders widget and tool.OneWidget just read data to show." = "你的提醒事項任務數據將被展現在提醒事項的組件和工具中，OneWidget只是讀取他們進行展示。";
@@ -298,3 +298,61 @@
 "unknown" = "未知";
 "LowPower" = "低電量模式";
 "Participating in the translation project." = "參與本地化應用";
+"Volume" = "音量";
+"Brightness" = "亮度";
+"YearProgress" = "年進度";
+"Year Progress" = "年進度";
+"MonthProgress" = "月進度";
+"Month Progress" = "月進度";
+"WeekProgress" = "周進度";
+"Week Progress" = "周進度";
+
+//1.7.0
+"Steps" = "步數";
+"Distance" = "距離";
+"Active Energy" = "運動消耗";
+"Exercise Time" = "運動時間";
+"7 Day Average" = "7日平均";
+"Health" = "健康";
+"Stand Time" = "站立時間";
+"Flights Climbed" = "已爬樓層";
+"Basal Energy Burned" = "靜息能量";
+"Distance Swimming" = "遊泳距離";
+"Distance Cycling" = "騎車記錄";
+"Distance Downhill Snow Sports" = "高山雪上運動距離";
+"Distance Wheelchair" = "輪騎距離";
+"Push Count" = "推動次數";
+"Your Health Data can be updated in widgets.\nOneWidget just save and read data to show." = "授權後妳的健康數據可以在組件中更新。\nOneWidget僅為了做展示訪問您的數據。";
+"Total Widgets" = "小組件總數";
+"All" = "全部";
+"Load Data" = "加載數據";
+"Only the last 15 items datum.\nPlease open Health App for more datum." = "僅展示最近15條數據，更多數據請打開健康應用。";
+
+//1.8.0
+"7 Item Maximum" = "7日最大值";
+"Body Mass" = "體重";
+"Height" = "身高";
+"Headphone Audio Exposure" = "耳機音量";
+"Environmental Audio Exposure" = "環境音量";
+
+//1.9.0
+"Small - Single" = "小尺寸-單組件";
+"Medium - Single" = "中尺寸-單組件";
+"Large - Single" = "大尺寸-單組件";
+"Medium - Double" = "中尺寸-雙組件";
+"Large - Double" = "大尺寸-雙組件";
+"Large - Three" = "大尺寸-三組件";
+"Large - Four" = "大尺寸-四組件";
+"Size" = "尺寸";
+"Mode" = "模式";
+"First Type" = "第壹類型";
+"First Index" = "第壹參數";
+"Second Type" = "第二類型";
+"Second Index" = "第二參數";
+"Third Type" = "第三類型";
+"Third Index" = "第三參數";
+"Fourth Type" = "第四類型";
+"Fourth Index" = "第四參數";
+"Tint Color" = "前景";
+"Background" = "背景";
+"Tips: Edit widgets when you added them on HomeScreen" = "註意：添加小組件到桌面，進入編輯模式選擇對應參數。";

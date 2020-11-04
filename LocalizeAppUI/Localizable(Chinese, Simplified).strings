@@ -17,7 +17,7 @@
 "Large" = "大尺寸";
 "Data" = "数据";
 "There is no data at present." = "当前没有数据";
-"There is no incomplete reminders at present." = "当前没有未完成的提醒事项。";
+"There are no incomplete reminders at present." = "当前没有未完成的提醒事项。";
 
 //主题的名字
 "Random Color" = "随机颜色";
@@ -222,7 +222,7 @@
 "Friday" = "星期五";
 "Saturday" = "星期六";
 "Total Storage" = "总存储空间";
-"Free Storage" = "剩余存储空间";
+"Free Storage" = "剩余空间";
 "All Day" = "全天";
 "\nto " = "\n至 ";
 
@@ -251,8 +251,8 @@
 "Save Successfully!" = "保存成功！";
 "Add To HomeScreen,Choose Your Photo Number" = "添加组件到桌面，配置时选择对应的图片编号";
 "Do't need to choose" = "当前类型无须选择";
-"NO Data" = "暂无数据可选";
-"Edit Photo" = "编辑图片";
+"NO Data" = "暂无数据";
+"Update Photo" = "更新图片";
 "It is recommended to upload images less than 1m." = "推荐上传1M以内的图片。";
 
 "Your Reminder task data can be shown in the Reminders widget and tool.OneWidget just read data to show." = "你的提醒事项任务数据将被展现在提醒事项的组件和工具中，OneWidget只是读取他们进行展示。";
@@ -273,7 +273,7 @@
 "Nil" = "无";
 "You can choose parameter to preview" = "你可以选择参数进行预览";
 "Choose Theme" = "选择背景";
-"Edit Color" = "编辑颜色";
+"Update Color" = "更新颜色";
 "Choose Color" = "选择颜色";
 "Add Color" = "添加颜色";
 "Color Name" = "颜色名称";
@@ -303,3 +303,61 @@
 "unknown" = "未知";
 "LowPower" = "低电量模式";
 "Participating in the translation project." = "参与本地化应用";
+"Volume" = "音量";
+"Brightness" = "亮度";
+"YearProgress" = "年进度";
+"Year Progress" = "年进度";
+"MonthProgress" = "月进度";
+"Month Progress" = "月进度";
+"WeekProgress" = "周进度";
+"Week Progress" = "周进度";
+
+//1.7.0
+"Steps" = "步数";
+"Distance" = "距离";
+"Active Energy" = "活动能量";
+"Exercise Time" = "健身记录";
+"7 Day Average" = "7日平均";
+"Health" = "健康";
+"Stand Time" = "站立时间";
+"Flights Climbed" = "已爬楼层";
+"Basal Energy Burned" = "静息能量";
+"Distance Swimming" = "游泳距离";
+"Distance Cycling" = "骑车记录";
+"Distance Downhill Snow Sports" = "高山雪上运动距离";
+"Distance Wheelchair" = "轮骑距离";
+"Push Count" = "推动次数";
+"Your Health Data can be updated in widgets.\nOneWidget just save and read data to show." = "授权后你的健康数据可以在组件中更新。\nOneWidget仅为了做展示访问您的数据。";
+"Total Widgets" = "小组件总数";
+"All" = "全部";
+"Load Data" = "加载数据";
+"Only the last 15 items datum.\nPlease open Health App for more datum." = "仅展示最近15条数据，更多数据请打开健康应用。";
+
+//1.8.0
+"7 Item Maximum" = "7日最大值";
+"Body Mass" = "体重";
+"Height" = "身高";
+"Headphone Audio Exposure" = "耳机音量";
+"Environmental Audio Exposure" = "环境音量";
+
+//1.9.0
+"Small - Single" = "小尺寸-单组件";
+"Medium - Single" = "中尺寸-单组件";
+"Large - Single" = "大尺寸-单组件";
+"Medium - Double" = "中尺寸-双组件";
+"Large - Double" = "大尺寸-双组件";
+"Large - Three" = "大尺寸-三组件";
+"Large - Four" = "大尺寸-四组件";
+"Size" = "尺寸";
+"Mode" = "模式";
+"First Type" = "第一类型";
+"First Index" = "第一参数";
+"Second Type" = "第二类型";
+"Second Index" = "第二参数";
+"Third Type" = "第三类型";
+"Third Index" = "第三参数";
+"Fourth Type" = "第四类型";
+"Fourth Index" = "第四参数";
+"Tint Color" = "前景";
+"Background" = "背景";
+"Tips: Edit widgets when you added them on HomeScreen" = "注意：添加小组件到桌面，进入编辑模式选择对应参数。";
